@@ -41,6 +41,13 @@ h1 {
 
 /* Download Buttons */
 
-.download-button{
+.download-button {
   margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
 }
